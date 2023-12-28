@@ -1,0 +1,44 @@
+{
+  "uniqueLinkShared" : "https:\/\/www.dropbox.com\/scl\/fi\/o4w7bind8aeef8jdk1kka\/appinfo.json?rlkey=ilqnxv966c9fvixvwhczvu6em",
+  "latestVersion" : {
+    "build" : "4",
+    "buildtype" : "enterprise",
+    "manifestLink" : "https:\/\/www.dropbox.com\/scl\/fi\/e4or8twm11hse11lavhxv\/manifest.plist?rlkey=w3r1nt7g822pippuhlrwpanvc",
+    "supporteddevice" : "iPhone and iPad",
+    "minosversion" : "12.0",
+    "ipafilesize" : 21,
+    "mobileprovision" : {
+      "uuid" : "84bb2b13-65db-46d3-99e2-c98c948723b8",
+      "teamname" : "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP - HO CHI MINH CITY TELECOM BRANCH",
+      "expirationdata" : 1733467585,
+      "createdate" : 1701931585,
+      "teamid" : "JPMH34L85K"
+    },
+    "identifier" : "ttcntt.vnpt.cto.ioc",
+    "version" : "1.0.4",
+    "timestamp" : 1703735641.83459,
+    "name" : "VNPTCầnThơ"
+  },
+  "versions" : [
+    {
+      "build" : "4",
+      "buildtype" : "enterprise",
+      "manifestLink" : "https:\/\/www.dropbox.com\/scl\/fi\/e4or8twm11hse11lavhxv\/manifest.plist?rlkey=w3r1nt7g822pippuhlrwpanvc",
+      "supporteddevice" : "iPhone and iPad",
+      "minosversion" : "12.0",
+      "ipafilesize" : 21,
+      "mobileprovision" : {
+        "uuid" : "84bb2b13-65db-46d3-99e2-c98c948723b8",
+        "teamname" : "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP - HO CHI MINH CITY TELECOM BRANCH",
+        "expirationdata" : 1733467585,
+        "createdate" : 1701931585,
+        "teamid" : "JPMH34L85K"
+      },
+      "identifier" : "ttcntt.vnpt.cto.ioc",
+      "version" : "1.0.4",
+      "timestamp" : 1703735641.83459,
+      "name" : "VNPTCầnThơ"
+    }
+  ],
+  "uniqueLinkShort" : "https:\/\/appbox.me\/2kbgz17v"
+}
